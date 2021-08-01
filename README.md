@@ -19,11 +19,11 @@ And to be clear, Ng's course is my first access to AI. I would love to share mor
 <font size=1>Week4　Deep Neural Networks</font> 
 <a href="Cours1/s4/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb"> 
 <font size=1> 
-* Building your Deep Neural Network Step by Step</font> 
+1. Building your Deep Neural Network Step by Step</font> 
 </a>
 <a href="Cours1/s4/Deep+Neural+Network+-+Application+v8.ipynb"> 
 <font size=1> 
-* Deep Neural Network Application</font>
+1. Deep Neural Network Application</font>
 </a>
 
 **Improving Deep Neural Networks**  
