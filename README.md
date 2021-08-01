@@ -101,3 +101,9 @@ And to be clear, Ng's course is my first access to AI. I would love to share mor
 
 <div class="rc-S12nCertificate"><a data-click-key="accomplishments_v2.accomplishments_pages.click.certificate_image_link" data-click-value="{&quot;href&quot;:&quot;https://www.coursera.org/account/accomplishments/specialization/certificate/7FVC7YNZYCMM&quot;,&quot;namespace&quot;:{&quot;action&quot;:&quot;click&quot;,&quot;app&quot;:&quot;accomplishments_v2&quot;,&quot;component&quot;:&quot;certificate_image_link&quot;,&quot;page&quot;:&quot;accomplishments_pages&quot;},&quot;schema_type&quot;:&quot;FRONTEND&quot;}" data-track="true" data-track-app="accomplishments_v2" data-track-page="accomplishments_pages" data-track-action="click" data-track-component="certificate_image_link" data-track-href="https://www.coursera.org/account/accomplishments/specialization/certificate/7FVC7YNZYCMM" href="https://www.coursera.org/account/accomplishments/specialization/certificate/7FVC7YNZYCMM" to="https://www.coursera.org/account/accomplishments/specialization/certificate/7FVC7YNZYCMM" class="rc-CertificateImage" target="_blank" rel="noopener noreferrer"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~7FVC7YNZYCMM/CERTIFICATE_LANDING_PAGE~7FVC7YNZYCMM.jpeg" alt="Voir le certificat pour Qannaf AL-SAHMI, Deep Learning, proposé par l’intermédiaire de Coursera. Congratulations! You have completed all 5 courses of the Deep Learning Specialization.
 "></a></div>
+
+
+
+<br><br>
+## license
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
