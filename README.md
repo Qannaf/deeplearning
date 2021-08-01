@@ -5,7 +5,10 @@ And to be clear, Ng's course is my first access to AI. I would love to share mor
 ------
 ### Course Contents
 **Neural Networks and Deep Learning**  
-<font size=1>Week1　Introduction to deep learning</font>  
+<a href="Cours1/s1/Python_Basics_With_Numpy_v3a.ipynb"> 
+    <font size=1>Week1　Introduction to deep learning
+    </font>
+</a><br>
 <font size=1>Week2　Neural Networks Basics</font>   
 <font size=1>Week3　Shallow Neural networks</font>   
 <font size=1>Week4　Deep Neural Networks</font>   
