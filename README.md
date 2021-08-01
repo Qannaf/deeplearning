@@ -5,23 +5,23 @@ And to be clear, Ng's course is my first access to AI. I would love to share mor
 ------
 ### Course Contents
 **Neural Networks and Deep Learning**  
-<a href="Course1/w1/Python_Basics_With_Numpy_v3a.ipynb"> 
+<a href="Cours1/s1/Python_Basics_With_Numpy_v3a.ipynb"> 
     <font size=1>Week1　Introduction to deep learning
     </font>
 </a><br>
-<a href="Course1/w2/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb">
+<a href="Cours1/s2/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb">
 <font size=1>Week2　Neural Networks Basics</font>   
 </a>
-<a href="Course1/w3/Planar_data_classification_with_onehidden_layer_v6c.ipynb">
+<a href="Cours1/s3/Planar_data_classification_with_onehidden_layer_v6c.ipynb">
 <font size=1>Week3　Shallow Neural networks</font>
 </a>
   
 <font size=1>Week4　Deep Neural Networks</font> 
-<a href="Course1/w4/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb"> 
+<a href="Cours1/s4/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb"> 
 <font size=1> 
 * Building your Deep Neural Network Step by Step</font> 
 </a>
-<a href="Course1/w4/Deep+Neural+Network+-+Application+v8.ipynb"> 
+<a href="Cours1/s4/Deep+Neural+Network+-+Application+v8.ipynb"> 
 <font size=1> 
 * Deep Neural Network Application</font>
 </a>
