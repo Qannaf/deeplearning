@@ -80,15 +80,13 @@ And to be clear, Ng's course is my first access to AI. I would love to share mor
 <a href="Cours5/S1/Dinosaurus_Island_Character_level_language_model_final_v3a.ipynb"> 
 <font size=1> <br>Dinosaurus Island Character level language model final</font> </a>
 
-
 <font size=1>Week2　Natural Language Processing & Word Embeddings</font>  
 <a href="Cours5/S2/Operations_on_word_vectors_v2a.ipynb"> 
 <font size=1> Operations on word vectors</font> </a>
 <a href="Cours5/S2/Emojify_v2a.ipynb"> 
 <font size=1> <br>Emojify</font></a>
-<a href="">
+
 <font size=1>Week3　Sequence models & Attention mechanism</font>  
-</a>
 <a href="Cours5/S3/Neural_machine_translation_with_attention_v4a.ipynb"> 
 <font size=1> Neural machine translation with attention</font> </a>
 <a href="Cours5/S3/Residual_Networks_v2a.ipynb"> 
