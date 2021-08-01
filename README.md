@@ -14,8 +14,7 @@ And to be clear, Ng's course is my first access to AI. I would love to share mor
 </a>
 <a href="Cours1/s3/Planar_data_classification_with_onehidden_layer_v6c.ipynb">
 <font size=1>Week3　Shallow Neural networks</font>
-</a>
-  
+</a>  
 <font size=1>Week4　Deep Neural Networks</font> 
 <a href="Cours1/s4/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb"> 
 <font size=1> <br>Building your Deep Neural Network Step by Step</font> </a>
@@ -25,21 +24,17 @@ And to be clear, Ng's course is my first access to AI. I would love to share mor
 **Improving Deep Neural Networks**  
 <font size=1>Week1　Practical aspects of Deep Learning
 (Initialization-Regularization-Gradient Checking)</font>  
-
 <a href="Cours2/S1/Initialization/Initialization.ipynb">
 <font size=1> Initialization</font>
 </a>
-
 <a href="Cours2/S1/Regularization/Regularization_v2a.ipynb">
 <font size=1> <br>Regularization<br></font>
 </a>
-
-
 <a href="Cours2/S2/Optimization_methods_v1b.ipynb">
 <font size=1>Week2　Optimization algorithms</font>  
 </a>
 <a href="Cours2/S3/TensorFlow_Tutorial_v3b.ipynb">
-<font size=1><br>Week3　Hyperparameter tuning, Batch Normalization and Programming Frameworks</font>  
+<font size=1>Week3　Hyperparameter tuning, Batch Normalization and Programming Frameworks</font>  
 </a>
 
 
