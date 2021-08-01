@@ -59,6 +59,7 @@ And to be clear, Ng's course is my first access to AI. I would love to share mor
 <font size=1> <br>Keras Tutorial</font> </a>
 <a href="Cours4/S2/Residual_Networks_v2a.ipynb"> 
 <font size=1> <br>Residual Networks</font></a>
+
 <a href="Cours4/S3/Autonomous_driving_application_Car_detection_v3a.ipynb">
 <font size=1>Week3　Object detection</font>  
 </a>
@@ -89,7 +90,7 @@ And to be clear, Ng's course is my first access to AI. I would love to share mor
 <font size=1>Week3　Sequence models & Attention mechanism</font>  
 <a href="Cours5/S3/Neural_machine_translation_with_attention_v4a.ipynb"> 
 <font size=1> Neural machine translation with attention</font> </a>
-<a href="Cours5/S3/Residual_Networks_v2a.ipynb"> 
+<a href="Cours5/S3/Trigger_word_detection_v1a.ipynb"> 
 <font size=1> <br>Trigger word detection</font></a>
    
 
