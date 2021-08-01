@@ -21,6 +21,7 @@ And to be clear, Ng's course is my first access to AI. I would love to share mor
 <a href="Cours1/s4/Deep+Neural+Network+-+Application+v8.ipynb"> 
 <font size=1> <br>Deep Neural Network Application</font></a>
 
+
 **Improving Deep Neural Networks**  
 <font size=1>Week1　Practical aspects of Deep Learning
 (Initialization-Regularization-Gradient Checking)</font>  
@@ -39,41 +40,59 @@ And to be clear, Ng's course is my first access to AI. I would love to share mor
 
 
 **Structuring Machine Learning Projects**
-<a href="">  
+<a href="Cours3/S1/Week 1 Quiz - Bird recognition in the city of Peacetopia (case study).md">  
 <font size=1>Week1　ML Strategy (1)</font>  
 </a>
-<a href="">
+<a href="Cours3/S2/Week 2 Quiz - Autonomous driving (case study).md">
 <font size=1>Week2　ML Strategy (2)</font>
 </a>
 
 
-
-**Convolutional Neural Network** 
-<a href=""> 
-<font size=1>Week1　Foundations of Convolutional Neural Networks</font>  
-</a>
-<a href="">
-<font size=1>Week2　Deep convolutional models: case studies</font>  
-</a>
-<a href="">
+**Convolutional Neural Network** <br>
+<font size=1>Week1　Foundations of Convolutional Neural Networks</font> 
+<a href="Cours4/S1/Convolution_model_Step_by_Step_v2a.ipynb"> 
+<font size=1> <br>Convolution model Step by Step</font> </a>
+<a href="Cours4/S1/Convolution_model_Application_v1a.ipynb"> 
+<font size=1> <br>Convolution model Application</font></a>
+<font size=1><br>Week2　Deep convolutional models: case studies</font> 
+<a href="Cours4/S2/Keras_Tutorial_v2a.ipynb"> 
+<font size=1> <br>Keras Tutorial</font> </a>
+<a href="Cours4/S2/Residual_Networks_v2a.ipynb"> 
+<font size=1> <br>Residual Networks</font></a>
+<a href="Cours4/S3/Autonomous_driving_application_Car_detection_v3a.ipynb">
 <font size=1>Week3　Object detection</font>  
 </a>
-<a href="">
+
 <font size=1>Week4　Special applications: Face recognition & Neural style transfer</font>  
-</a>
+<a href="Cours4/S4/Art_Generation_with_Neural_Style_Transfer_v3a.ipynb"> 
+<font size=1>Art Generation with Neural Style Transfer</font> </a>
+<a href="Cours4/S4/Face_Recognition_v3a.ipynb"> 
+<font size=1> <br>Face Recognition</font></a>
 
 
 **Sequence Models**  
-<a href="">
+
 <font size=1>Week1　Recurrent Neural Networks</font>  
-</a>
-<a href="">
+<a href="Cours5/S1/Building_a_Recurrent_Neural_Network_Step_by_Step_v3a.ipynb"> 
+<font size=1> Building a Recurrent Neural Network Step by Step</font> </a>
+<a href="Cours5/S1/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v3a.ipynb"> 
+<font size=1> <br>Improvise a Jazz Solo with an LSTM Network</font></a>
+<a href="Cours5/S1/Dinosaurus_Island_Character_level_language_model_final_v3a.ipynb"> 
+<font size=1> <br>Dinosaurus Island Character level language model final</font> </a>
+
+
 <font size=1>Week2　Natural Language Processing & Word Embeddings</font>  
-</a>
+<a href="Cours5/S2/Operations_on_word_vectors_v2a.ipynb"> 
+<font size=1> Operations on word vectors</font> </a>
+<a href="Cours5/S2/Emojify_v2a.ipynb"> 
+<font size=1> <br>Emojify</font></a>
 <a href="">
 <font size=1>Week3　Sequence models & Attention mechanism</font>  
 </a>
-
+<a href="Cours5/S3/Neural_machine_translation_with_attention_v4a.ipynb"> 
+<font size=1> Neural machine translation with attention</font> </a>
+<a href="Cours5/S3/Residual_Networks_v2a.ipynb"> 
+<font size=1> <br>Trigger word detection</font></a>
    
 
 ### Thanks for Andrew Ng!
