@@ -18,24 +18,28 @@ And to be clear, Ng's course is my first access to AI. I would love to share mor
   
 <font size=1>Week4　Deep Neural Networks</font> 
 <a href="Cours1/s4/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb"> 
-<font size=1> 
-1. Building your Deep Neural Network Step by Step</font> 
-</a>
+<font size=1> <br>Building your Deep Neural Network Step by Step</font> </a>
 <a href="Cours1/s4/Deep+Neural+Network+-+Application+v8.ipynb"> 
-<font size=1> 
-1. Deep Neural Network Application</font>
-</a>
+<font size=1> <br>Deep Neural Network Application</font></a>
 
 **Improving Deep Neural Networks**  
-<a href="">
 <font size=1>Week1　Practical aspects of Deep Learning
 (Initialization-Regularization-Gradient Checking)</font>  
+
+<a href="Cours2/S1/Initialization/Initialization.ipynb">
+<font size=1> Initialization</font>
 </a>
-<a href="">
+
+<a href="Cours2/S1/Regularization/Regularization_v2a.ipynb">
+<font size=1> <br>Regularization<br></font>
+</a>
+
+
+<a href="Cours2/S2/Optimization_methods_v1b.ipynb">
 <font size=1>Week2　Optimization algorithms</font>  
 </a>
-<a href="">
-<font size=1>Week3　Hyperparameter tuning, Batch Normalization and Programming Frameworks</font>  
+<a href="Cours2/S3/TensorFlow_Tutorial_v3b.ipynb">
+<font size=1><br>Week3　Hyperparameter tuning, Batch Normalization and Programming Frameworks</font>  
 </a>
 
 
