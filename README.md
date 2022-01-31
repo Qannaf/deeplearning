@@ -5,92 +5,94 @@ And to be clear, Ng's course is my first access to AI. I would love to share mor
 ------
 ### course contents
 **Neural Networks and Deep Learning**  
-<a href="cours1/s1/Python_Basics_With_Numpy_v3a.ipynb"> 
+
+<a href="https://github.com/Qannaf/deeplearning/blob/main/Cours1/s1/Python_Basics_With_Numpy_v3a.ipynb"> 
     <font size=1>Week1　Introduction to deep learning
     </font>
 </a><br>
-<a href="cours1/s2/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb">
+
+<a href="https://github.com/Qannaf/deeplearning/blob/main/Cours1/s2/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb">
 <font size=1>Week2　Neural Networks Basics</font>   
 </a>
-<a href="cours1/s3/Planar_data_classification_with_onehidden_layer_v6c.ipynb">
+<a href="https://github.com/Qannaf/deeplearning/blob/main/Cours1/s3/Planar_data_classification_with_onehidden_layer_v6c.ipynb"><br>
 <font size=1>Week3　Shallow Neural networks</font>
-</a>  
+</a>  <br>
 <font size=1>Week4　Deep Neural Networks</font> 
-<a href="cours1/s4/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb"> 
+<a href="https://github.com/Qannaf/deeplearning/blob/main/Cours1/s4/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb"> 
 <font size=1> <br>Building your Deep Neural Network Step by Step</font> </a>
-<a href="cours1/s4/Deep+Neural+Network+-+Application+v8.ipynb"> 
+<a href="https://github.com/Qannaf/deeplearning/blob/main/Cours1/s4/Deep+Neural+Network+-+Application+v8.ipynb"> 
 <font size=1> <br>Deep Neural Network Application</font></a>
 
 
 **Improving Deep Neural Networks**  
 <font size=1>Week1　Practical aspects of Deep Learning
 (Initialization-Regularization-Gradient checking)</font>  
-<a href="cours2/S1/Initialization/Initialization.ipynb">
+<a href="https://github.com/Qannaf/deeplearning/blob/main/Cours2/S1/Initialization/Initialization.ipynb">
 <font size=1> Initialization</font>
 </a>
-<a href="cours2/S1/Regularization/Regularization_v2a.ipynb">
+<a href="https://github.com/Qannaf/deeplearning/blob/main/Cours2/S1/Regularization/Regularization_v2a.ipynb">
 <font size=1> <br>Regularization<br></font>
 </a>
-<a href="cours2/S2/Optimization_methods_v1b.ipynb">
+<a href="https://github.com/Qannaf/deeplearning/blob/main/Cours2/S2/Optimization_methods_v1b.ipynb">
 <font size=1>Week2　Optimization algorithms</font>  
 </a>
-<a href="cours2/S3/TensorFlow_Tutorial_v3b.ipynb">
+<a href="https://github.com/Qannaf/deeplearning/blob/main/Cours2/S3/TensorFlow_Tutorial_v3b.ipynb">
 <font size=1>Week3　Hyperparameter tuning, Batch Normalization and Programming Frameworks</font>  
 </a>
 
 
 **Structuring Machine Learning Projects**
-<a href="cours3/S1/Week 1 Quiz - Bird recognition in the city of Peacetopia (case study).md">  
+<a href="https://github.com/Qannaf/deeplearning/blob/main/Cours3/S1/Week 1 Quiz - Bird recognition in the city of Peacetopia (case study).md">  
 <font size=1>Week1　ML Strategy (1)</font>  
 </a>
-<a href="cours3/S2/Week 2 Quiz - Autonomous driving (case study).md">
+<a href="https://github.com/Qannaf/deeplearning/blob/main/Cours3/S2/Week 2 Quiz - Autonomous driving (case study).md">
 <font size=1>Week2　ML Strategy (2)</font>
 </a>
 
 
 **convolutional Neural Network** <br>
 <font size=1>Week1　Foundations of convolutional Neural Networks</font> 
-<a href="cours4/S1/convolution_model_Step_by_Step_v2a.ipynb"> 
+<a href="https://github.com/Qannaf/deeplearning/blob/main/Cours4/S1/convolution_model_Step_by_Step_v2a.ipynb"> 
 <font size=1> <br>convolution model Step by Step</font> </a>
-<a href="cours4/S1/convolution_model_Application_v1a.ipynb"> 
+<a href="https://github.com/Qannaf/deeplearning/blob/main/Cours4/S1/convolution_model_Application_v1a.ipynb"> 
 <font size=1> <br>convolution model Application</font></a>
 <font size=1><br>Week2　Deep convolutional models: case studies</font> 
-<a href="cours4/S2/Keras_Tutorial_v2a.ipynb"> 
+<a href="https://github.com/Qannaf/deeplearning/blob/main/Cours4/S2/Keras_Tutorial_v2a.ipynb"> 
 <font size=1> <br>Keras Tutorial</font> </a>
-<a href="cours4/S2/Residual_Networks_v2a.ipynb"> 
+<a href="https://github.com/Qannaf/deeplearning/blob/main/Cours4/S2/Residual_Networks_v2a.ipynb"> 
 <font size=1> <br>Residual Networks</font></a>
 
-<a href="cours4/S3/Autonomous_driving_application_car_detection_v3a.ipynb">
+<a href="https://github.com/Qannaf/deeplearning/blob/main/Cours4/S3/Autonomous_driving_application_car_detection_v3a.ipynb">
 <font size=1>Week3　Object detection</font>  
 </a>
 
 <font size=1>Week4　Special applications: Face recognition & Neural style transfer</font>  
-<a href="cours4/S4/Art_Generation_with_Neural_Style_Transfer_v3a.ipynb"> 
+<a href="https://github.com/Qannaf/deeplearning/blob/main/Cours4/S4/Art_Generation_with_Neural_Style_Transfer_v3a.ipynb"> 
 <font size=1>Art Generation with Neural Style Transfer</font> </a>
-<a href="cours4/S4/Face_Recognition_v3a.ipynb"> 
+<a href="https://github.com/Qannaf/deeplearning/blob/main/Cours4/S4/Face_Recognition_v3a.ipynb"> 
 <font size=1> <br>Face Recognition</font></a>
 
 
 **Sequence Models**  
 
 <font size=1>Week1　Recurrent Neural Networks</font>  
-<a href="cours5/S1/Building_a_Recurrent_Neural_Network_Step_by_Step_v3a.ipynb"> 
+<a href="https://github.com/Qannaf/deeplearning/blob/main/Cours5/S1/Building_a_Recurrent_Neural_Network_Step_by_Step_v3a.ipynb"> 
 <font size=1> Building a Recurrent Neural Network Step by Step</font> </a>
-<a href="cours5/S1/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v3a.ipynb"> 
+<a href="https://github.com/Qannaf/deeplearning/blob/main/Cours5/S1/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v3a.ipynb"> 
 <font size=1> <br>Improvise a Jazz Solo with an LSTM Network</font></a>
-<a href="cours5/S1/Dinosaurus_Island_character_level_language_model_final_v3a.ipynb"> 
+<a href="https://github.com/Qannaf/deeplearning/blob/main/Cours5/S1/Dinosaurus_Island_character_level_language_model_final_v3a.ipynb"> 
 <font size=1> <br>Dinosaurus Island character level language model final</font> </a>
 
 <font size=1>Week2　Natural Language Processing & Word Embeddings</font>  
-<a href="cours5/S2/Operations_on_word_vectors_v2a.ipynb"> 
+<a href="https://github.com/Qannaf/deeplearning/blob/main/Cours5/S2/Operations_on_word_vectors_v2a.ipynb"> 
 <font size=1> Operations on word vectors</font> </a>
-<a href="cours5/S2/Emojify_v2a.ipynb"> 
+<a href="https://github.com/Qannaf/deeplearning/blob/main/Cours5/S2/Emojify_v2a.ipynb"> 
 <font size=1> <br>Emojify</font></a>
 
 <font size=1>Week3　Sequence models & Attention mechanism</font>  
-<a href="cours5/S3/Neural_machine_translation_with_attention_v4a.ipynb"> 
+<a href="https://github.com/Qannaf/deeplearning/blob/main/Cours5/S3/Neural_machine_translation_with_attention_v4a.ipynb"> 
 <font size=1> Neural machine translation with attention</font> </a>
-<a href="cours5/S3/Trigger_word_detection_v1a.ipynb"> 
+<a href="https://github.com/Qannaf/deeplearning/blob/main/Cours5/S3/Trigger_word_detection_v1a.ipynb"> 
 <font size=1> <br>Trigger word detection</font></a>
    
 
