@@ -52,17 +52,16 @@ And to be clear, Ng's course is my first access to AI. I would love to share mor
 
 **convolutional Neural Network** <br>
 <font size=1>Week1　Foundations of convolutional Neural Networks</font> 
-<a href="https://github.com/Qannaf/deeplearning/blob/main/Cours4/S1/convolution_model_Step_by_Step_v2a.ipynb"> 
+<a href="https://github.com/Qannaf/deeplearning/blob/main/Cours4/S1/Convolution_model_Step_by_Step_v2a.ipynb"> 
 <font size=1> <br>convolution model Step by Step</font> </a>
-<a href="https://github.com/Qannaf/deeplearning/blob/main/Cours4/S1/convolution_model_Application_v1a.ipynb"> 
+<a href="https://github.com/Qannaf/deeplearning/blob/main/Cours4/S1/Convolution_model_Application_v1a.ipynb"> 
 <font size=1> <br>convolution model Application</font></a>
 <font size=1><br>Week2　Deep convolutional models: case studies</font> 
 <a href="https://github.com/Qannaf/deeplearning/blob/main/Cours4/S2/Keras_Tutorial_v2a.ipynb"> 
 <font size=1> <br>Keras Tutorial</font> </a>
 <a href="https://github.com/Qannaf/deeplearning/blob/main/Cours4/S2/Residual_Networks_v2a.ipynb"> 
 <font size=1> <br>Residual Networks</font></a>
-
-<a href="https://github.com/Qannaf/deeplearning/blob/main/Cours4/S3/Autonomous_driving_application_car_detection_v3a.ipynb">
+<a href="https://github.com/Qannaf/deeplearning/blob/main/Cours4/S3/Autonomous_driving_application_Car_detection_v3a.ipynb">
 <font size=1>Week3　Object detection</font>  
 </a>
 
@@ -80,7 +79,7 @@ And to be clear, Ng's course is my first access to AI. I would love to share mor
 <font size=1> Building a Recurrent Neural Network Step by Step</font> </a>
 <a href="https://github.com/Qannaf/deeplearning/blob/main/Cours5/S1/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v3a.ipynb"> 
 <font size=1> <br>Improvise a Jazz Solo with an LSTM Network</font></a>
-<a href="https://github.com/Qannaf/deeplearning/blob/main/Cours5/S1/Dinosaurus_Island_character_level_language_model_final_v3a.ipynb"> 
+<a href="https://github.com/Qannaf/deeplearning/blob/main/Cours5/S1/Dinosaurus_Island_Character_level_language_model_final_v3a.ipynb"> 
 <font size=1> <br>Dinosaurus Island character level language model final</font> </a>
 
 <font size=1>Week2　Natural Language Processing & Word Embeddings</font>  
